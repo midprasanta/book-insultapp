@@ -9,8 +9,8 @@
 </head>
 <body>
 	<%
-out.println(new InsultGenerator().generateInsult());
-%>
+	out.println(new InsultGenerator().generateInsult());
+	%>
 
 </body>
 </html>
